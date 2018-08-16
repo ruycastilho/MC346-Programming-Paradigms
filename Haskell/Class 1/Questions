@@ -1,0 +1,12 @@
+Exercises
+
+1.length of a list
+2.sum of the elements of a list
+3.sum of the even numbers of a list
+4.sum of the elements on even positions in a list
+5.existence of an item in a list
+6.position of an item in a list, if it exists in it
+7.counter for an item in a list
+8.maximum element in a list (recursion with local variables)
+9.revert a list (recursion with accumulators)
+10.interpolate lists

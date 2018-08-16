@@ -1,0 +1,26 @@
+Exercises
+
+1.length of a list
+2.sum of the elements of a list
+3.sum of the even numbers of a list
+4.sum of the elements on even positions in a list
+5.existence of an item in a list
+6.position of an item in a list, if it exists in it
+7.counter for an item in a list
+8.maximum element in a list (recursion with local variables)
+9.reverse a list (recursion with accumulators)
+10.interpolate lists
+11.generate list from 1 to a given n
+12.shift right in a list (e.g. shiftr [1,2,3,4] ==> [4,1,2,3])
+13.shift left
+14.remove first occurence of an element in a list
+15.remove all ocurrences of an element in a list
+16.remove the n first ocurrences of an element in a list
+17.remove the last ocurrence of an element in a list
+18.switch one element for another in a list (first ocurrence)
+18.switch one element for another in a list (all ocurrences)
+19.switch one element for another in a list (n first ocurrences)
+20.return lasts element of a list
+21.returns lists w/o its last element
+22. shift right n times
+23. shift left n times
